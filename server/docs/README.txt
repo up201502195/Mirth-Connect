@@ -64,6 +64,6 @@ To run the Mirth Connect Command Line Interface, create a new file named mccomma
 5. More Information
 ==================================================
 
-You can find the latest Mirth Connect release information, documentation, and more at: http://www.mirthcorp.com
+You can find the latest Mirth Connect release information, documentation, and more at: https://www.nextgen.com/products-and-services/NextGen-Connect-Integration-Engine-Downloads
 
 Join the Mirth Community at: http://www.mirthcorp.com/community/registration
