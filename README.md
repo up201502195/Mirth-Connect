@@ -83,6 +83,8 @@ All licensing information regarding third-party libraries is located in the `ser
 ## 6. More Information
 Download Mirth Connect and the official User Guide at: https://www.nextgen.com/products-and-services/NextGen-Connect-Integration-Engine-Downloads
 
+Archived downloads(Older Versions): http://downloads.mirthcorp.com/archive/connect/
+
 View the release notes, upgrade guide, FAQs, and examples at: https://www.mirthcorp.com/community/wiki/display/mirth/Home
 
 Join the Mirth Community Forums at: https://www.mirthcorp.com/community/registration
